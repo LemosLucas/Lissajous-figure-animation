@@ -6,7 +6,7 @@ clear; close all;
 
 
 global keepAnimating handles;
-keepAnimating = false;
+keepAnimating = true;
 
 %% PARAMETERS
 circle_radius = 1;
