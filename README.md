@@ -5,5 +5,8 @@ The example is a 4x4 lissajous figure animation coded in Matlab that is compatib
 1. Press 'p' to pause/unpause the animation
 2. Press 'a' to toggle the asymptotes
 
+## Output figure
+![4x4 Lissajous figure example](./Output.gif)
+
 Have fun :)
 
